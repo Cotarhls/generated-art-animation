@@ -1,7 +1,13 @@
-# recode the plum project of Antfu
+# Generated-art-animation
 
-## theta 
-0: [-120, -60]
-1: [-120 - pi / 2, -60 - pi / 2]
+For now, it's a collection of animations with style of generated art. All the animations are based on `2d context` of `canvas`. 
 
-## st
+# What are they?
+
+- `useAniPlum`, imitate from [The 13th chanllenge "Plum"](https://github.com/antfu) of [Anthony Fu](https://github.com/antfu)
+- pending...
+
+# License
+
+MIT
+
